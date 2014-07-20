@@ -7,7 +7,7 @@ This is the first version of ProtoGeo's [Moves app](http://www.moves-app.com)'s 
 ## General
 
 In this initial version, you need to load the API clients using Spring.
-Additionally, the API is dependent upon [scribe's API package](https://github.com/fernandezpablo85/scribe-java, "Scribe on Github").
+Additionally, the API is dependent upon [scribe's API package](https://github.com/fernandezpablo85/scribe-java "Scribe on Github").
 
 
 ## Using the SDK
